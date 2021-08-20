@@ -103,7 +103,7 @@ ASU Assignments
 ## Addendum
 
 [Temenos - World-Leading Banking Software Solutions](https://www.temenos.com/)
-[FinTech Weekly](https://www.fintechweekly.com/)
+[FinTech Weekly](https://www.fintechweekly.com/),
 [Stackshare](https://stackshare.io/)
 [Wkipedia Temenos](https://en.wikipedia.org/wiki/Temenos_Group)
 Company’s Blog
